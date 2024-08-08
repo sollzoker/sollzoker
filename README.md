@@ -2,7 +2,7 @@
 
 Meu nome é Ana carolina, e prefiro ser chamada de **_Sol_** ☀️
 
-- Estou estudando linguagens de programação na Alura
+- Estou estudando linguagens de programação na [Alura] (https://www.alura.com.br)
 - Utilizarei esse espaço para me organizar com meus projetos na escola, e também compartilhar tais projetos
 - É um perfil apenas usado para minha própria educação
   
